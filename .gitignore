@@ -1,0 +1,6 @@
+#ignore all excell files
+*.xlsx
+#ignore folder
+data
+#file
+data.xlsx
